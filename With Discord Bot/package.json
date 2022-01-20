@@ -1,0 +1,27 @@
+{
+  "name": "b0t",
+  "version": "1.1.0",
+  "description": "By ShreshthTiwari#6014",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "",
+    "dotenv": "",
+    "fs": "",
+    "https": "",
+    "nodemon": ""
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreshthTiwari/Website-Hosting-With-NodeJS"
+  },
+  "author": "ShreshthTiwari#6014",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShreshthTiwari/Website-Hosting-With-NodeJS/issues"
+  },
+  "homepage": "https://github.com/ShreshthTiwari/Website-Hosting-With-NodeJS#readme"
+}
